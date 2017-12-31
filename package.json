@@ -2,7 +2,7 @@
   "name": "burger",
   "version": "1.0.0",
   "description": "Eat-da-burger app",
-  "main": "index.js",
+  "main": "server.js",
   "dependencies": {
     "body-parser": "^1.18.2",
     "express": "^4.16.2",
